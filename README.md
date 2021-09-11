@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakhi-pal
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Redux/TypeScript
+- 🌱 I’m currently learning React/Redux/TypeScript
 - 💞️ I’m looking to collaborate on free lance projects
 - 📫 How to reach me - rakhipal012@gmail.com
 
